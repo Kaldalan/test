@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ABZ+D3NCPKpiZV6vfVCd462AwFxqLp20zsaMhWNrlXMIZ/KZLePyIylS0o/NY/90FkwJ4/o1UFaSnKSFQwAjKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simeo\\source\\repos\\testFile\\testFile\\testFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simeo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
