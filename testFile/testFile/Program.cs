@@ -11,7 +11,7 @@ namespace testFile
             string s = "S";
             Console.WriteLine("J");
             Console.WriteLine("s");
-            int a = 12;
+            
             string b = "sdf";
             Console.WriteLine(a);
             
