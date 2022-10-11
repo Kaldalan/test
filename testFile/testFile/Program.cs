@@ -13,6 +13,7 @@ namespace testFile
             Console.WriteLine("s");
             int a = 12;
             string b = "sdf";
+            Console.WriteLine(a);
             
         }
     }
