@@ -11,7 +11,7 @@ namespace testFile
             string s = "S";
             Console.WriteLine("J");
             Console.WriteLine("s");
-            string a = 12;
+            string a = "12";
         }
     }
 }
