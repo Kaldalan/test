@@ -8,6 +8,7 @@ namespace testFile
         {
             Console.WriteLine("Yes");
             int p = 1;
+            string s = "S";
         }
     }
 }
