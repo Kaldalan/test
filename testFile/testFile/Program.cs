@@ -10,7 +10,8 @@ namespace testFile
             int p = 1;
             string s = "S";
             Console.WriteLine("J");
-            Console.WriteLine("s")
+            Console.WriteLine("s");
+            int a = 12;
         }
     }
 }
