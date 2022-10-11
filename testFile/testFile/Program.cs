@@ -7,6 +7,7 @@ namespace testFile
         static void Main(string[] args)
         {
             Console.WriteLine("Yes");
+            int p = 1;
         }
     }
 }
